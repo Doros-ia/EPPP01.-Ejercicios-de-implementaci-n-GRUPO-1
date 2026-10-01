@@ -216,6 +216,42 @@ Capturas de la ejecución real del programa para cada caso de prueba.
 
 ---
 
+# 🕵️ Evidencias de GitHub · Registro de la Batfamilia
+
+Capturas de los commits realizados por cada integrante del equipo en este repositorio.
+
+## 🦇 Paredes Acosta Dereck Shair
+
+<p align="center">
+  <img src="Evidencias%20GitHub/ParedesDereck%20-%20Commits%20realizados.jpeg" width="750" alt="Commits realizados por Paredes Acosta Dereck Shair">
+</p>
+
+## 🦇 Ashanga Yumbo Brishy Anahy
+
+<p align="center">
+  <img src="Evidencias%20GitHub/Brishy_Ashanga.png" width="750" alt="Commits realizados por Ashanga Yumbo Brishy Anahy">
+</p>
+
+## 🦇 Calderon Carvajal Fher Dorian
+
+<p align="center">
+  <img src="Evidencias%20GitHub/Dorian_Calderon.png" width="750" alt="Commits realizados por Calderon Carvajal Fher Dorian">
+</p>
+
+## 🦇 Casillas Ochoa Antony Sebastian
+
+<p align="center">
+  <img src="Evidencias%20GitHub/Casillas_Antony.jpeg" width="750" alt="Commits realizados por Casillas Ochoa Antony Sebastian">
+</p>
+
+## 🦇 Sanchez Bastidas Karina Paola
+
+<p align="center">
+  <img src="Evidencias%20GitHub/Karina_Sanchez.jpeg" width="750" alt="Commits realizados por Sanchez Bastidas Karina Paola">
+</p>
+
+---
+
 <div align="center">
 
 ## 🦇 MISIÓN COMPLETADA
