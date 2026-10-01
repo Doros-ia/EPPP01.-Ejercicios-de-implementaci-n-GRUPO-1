@@ -196,21 +196,22 @@ java SmartToll
 
 Capturas de la ejecución real del programa para cada caso de prueba.
 
-<!--
-Colocar las imágenes dentro de una carpeta llamada "evidencias"
-y reemplazar los nombres si fuera necesario.
--->
+## 📷 Evidencia · Caso 1
 
 <p align="center">
-  <img src="evidencias/caso 1.png" width="750" alt="Ejecución del Caso 1 - Caso normal con moto, automóvil y camión">
+  <img src="evidencias/prueba1.png" width="750" alt="Ejecución del Caso 1 - Caso normal con moto, automóvil y camión">
 </p>
 
-<p align="center">
-  <img src="evidencias/caso 2.png" width="750" alt="Ejecución del Caso 2 - Camión con exactamente 4 ejes">
-</p>
+## 📷 Evidencia · Caso 2
 
 <p align="center">
-  <img src="evidencias/caso 3.png" width="750" alt="Ejecución del Caso 3 - Rechazo de entradas inválidas">
+  <img src="evidencias/prueba%202.png" width="750" alt="Ejecución del Caso 2 - Camión con exactamente 4 ejes">
+</p>
+
+## 📷 Evidencia · Caso 3
+
+<p align="center">
+  <img src="evidencias/prueba%203.png" width="750" alt="Ejecución del Caso 3 - Rechazo de entradas inválidas">
 </p>
 
 ---
